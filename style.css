@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  background-color: black;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+img {
+  width: 60%;
+}
+li {
+  list-style: none;
+  margin-top: 30px;
+  text-align: center;
+  border: solid 2px purple;
+  color: bisque;
+  padding: 10px;
+  margin: 15px;
+  margin-top: 20px;
+}
